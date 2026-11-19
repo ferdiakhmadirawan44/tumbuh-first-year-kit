@@ -1,0 +1,163 @@
+TUMBUH
+
+Tahun Pertama Bayi · Baby's First Year
+
+---
+
+TMB-20260920-001
+
+Aira Putri Maharani
+
+Lahir / Born Minggu, 20 September 2026
+
+Pengumuman kelahiran · Birth announcement
+
+SELAMAT DATANG, AIRA! / WELCOME, AIRA!
+
+Halo, {{first_name}} — Aira Putri Maharani lahir pada Minggu, 20 September 2026 pukul 08:15 WIB, dengan berat 3,2 kg dan panjang 49 cm. / Aira Putri Maharani was born on Sunday, 20 September 2026 at 08:15 WIB, weighing 3,2 kg and 49 cm long.
+
+---
+
+Usia / Age: 1 bulan 30 hari · 1 month, 30 days (60 hari / 60 days) — lahir / born Minggu, 20 September 2026
+
+Vaksin berikutnya
+
+Next vaccine
+
+VAKSIN 2 BULAN — BESOK · 2 MONTHS VACCINES — TOMORROW
+
+DPT-HB-Hib 1 · Polio tetes (OPV-2) · PCV 1 · Rotavirus 1 — jatuh tempo / due 20 November 2026. Satu kunjungan, empat perlindungan sekaligus. / One visit, four protections at once.
+
+Tanggal janji temu
+
+Appointment date
+
+20 November 2026
+
+Friday, 20 November 2026 · 09:00 WIB
+
+Klinik
+
+Clinic
+
+Puskesmas Ambal
+
+Ambal, Kebumen, Jawa Tengah
+
+Vaksin pada kunjungan ini
+
+Vaccines at this visit
+
+DPT-HB-Hib 1 · Polio tetes (OPV-2) · PCV 1 · Rotavirus 1
+
+Hitung mundur
+
+Countdown
+
+Besok · Tomorrow
+
+Konfirmasi Janji Temu / Confirm Appointment (https://example.com/tumbuh/TMB-20260920-001/confirm)
+
+Jadwal ulang / Reschedule (https://example.com/tumbuh/TMB-20260920-001/reschedule)
+
+Status: Menunggu konfirmasi · Awaiting confirmation — status ini adalah field data yang diperbarui klinik setelah orang tua mengonfirmasi / this status is a data field the clinic updates once the parent confirms.
+
+TAHUN PERTAMA SEKILAS / THE FIRST YEAR AT A GLANCE
+
+6 kunjungan, 18 dosis — semuanya dihitung dari tanggal lahir Aira. / 6 visits, 18 doses — all computed from Aira's birth date.
+
+Lahir · Birth
+
+Diberikan 20 Sept 2026
+
+Hepatitis B (HB-0)
+
+Selesai · Done
+
+1 bulan · 1 month
+
+Diberikan 15 Oct 2026
+
+BCG · Polio tetes (OPV-1)
+
+Selesai · Done
+
+2 bulan · 2 months
+
+20 Nov 2026
+
+DPT-HB-Hib 1 · Polio tetes (OPV-2) · PCV 1 · Rotavirus 1
+
+Segera · Due soon
+
+3 bulan · 3 months
+
+20 Dec 2026
+
+DPT-HB-Hib 2 · Polio tetes (OPV-3) · PCV 2 · Rotavirus 2
+
+Mendatang · Upcoming
+
+4 bulan · 4 months
+
+20 Jan 2027
+
+DPT-HB-Hib 3 · Polio tetes (OPV-4) · Polio suntik (IPV-1) · Rotavirus 3
+
+Mendatang · Upcoming
+
+9 bulan · 9 months
+
+20 Jun 2027
+
+Campak-Rubela (MR) · Polio suntik (IPV-2) · Japanese Encephalitis (JE)
+
+Mendatang · Upcoming
+
+APA YANG DILINDUNGI VAKSIN INI / WHAT THESE VACCINES PROTECT AGAINST
+
+DPT-HB-Hib 1
+
+Difteri, pertusis, tetanus, hepatitis B, Hib
+
+Diphtheria, pertussis, tetanus, hepatitis B, Hib
+
+Polio tetes (OPV-2)
+
+Melindungi dari polio
+
+Protects against polio
+
+PCV 1
+
+Melindungi dari pneumonia & meningitis
+
+Protects against pneumococcal pneumonia & meningitis
+
+Rotavirus 1
+
+Melindungi dari diare berat
+
+Protects against severe diarrhoea
+
+* JE (Japanese Encephalitis) hanya diberikan di daerah endemis. / JE (Japanese Encephalitis) is given in endemic areas only.
+
+Satu tanggal lahir, satu jadwal / One birth date, one schedule
+
+Child ID TMB-20260920-001 · Born Sunday, 20 September 2026
+
+Schedule: IDAI (Ikatan Dokter Anak Indonesia) 2024 & Kemenkes RI 2025
+
+One birth date, one schedule — this ID is identical on the email, the page, the appointment card and the reminder.
+
+Konfirmasi Janji Temu / Confirm Appointment (https://example.com/tumbuh/TMB-20260920-001/confirm)
+
+Jadwal lengkap / Full schedule (https://example.com/tumbuh/2026-09-20) · Kartu janji temu (PDF) / Appointment card (PDF) (https://example.com/tumbuh/2026-09-20/card.pdf) · Berhenti berlangganan / Unsubscribe (https://example.com/unsubscribe)
+
+TUMBUH — pengingat imunisasi tahun pertama, dari IDAI (Ikatan Dokter Anak Indonesia) 2024 & Kemenkes RI 2025. Anda menerima email ini karena terdaftar di program imunisasi Puskesmas Ambal. / TUMBUH — first-year immunisation reminders, from IDAI (Ikatan Dokter Anak Indonesia) 2024 & Kemenkes RI 2025.
+
+---
+
+SAMPLE SCENARIO — a fictional baby, Aira Putri Maharani, born 20 September 2026. Not a real medical record. The clinic, birth weight/length and given dates are illustrative; the schedule rules (IDAI 2024 / Kemenkes 2025) and the date arithmetic are real.
+
+Puskesmas Ambal · Ambal, Kebumen, Jawa Tengah
